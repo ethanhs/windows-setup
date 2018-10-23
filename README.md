@@ -4,12 +4,12 @@ After having to re-install Windows a few times too many in the past year (don't 
 
 Make sure to read the `install.ps1`! I haven't used it yet (I wrote it for next time) but hopefully it works well for others.
 
-### CHOCOLATEY
+### Chocolatey
 
 First off, I use chocolatey, it is quite possibly the best tool I have on this list. Package managers are awesome. It makes things so much nicer. Use it!
 https://chocolatey.org/
 
-### Clnk
+### Clink
 
 [Clink](https://github.com/mridgers/clink) gives really nice tab completion for command prompt and powershell. I install it through chocolatey.
 

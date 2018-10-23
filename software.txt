@@ -49,4 +49,5 @@ vcredist2015
 vlc
 vscode
 windirstat
+wireshark
 wsltty
