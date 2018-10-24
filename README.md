@@ -15,7 +15,8 @@ https://chocolatey.org/
 
 To make it even better, I have used the wonderful [clink-completions](https://github.com/vladimir-kotikov/clink-completions) repo to add nice completions for many programs.
 
-I decided I want my own style of prompt, so I replace `git_prompt.lua` with my own `git-prompt.lua`, which can be found in this repo.
+I decided I want my own style of prompt, so I replace `git_prompt.lua` with my
+own (less intrusive) `git-prompt.lua`, which can be found in this repo.
 
 ### SSH server
 
@@ -27,3 +28,10 @@ I want to have remote access to my desktop at times over ZeroTier. When you inst
 
 I work on Python projects like [mypy](https://github.com/python/mypy). For this, I need both Python 3 and Python 2. To acheive this, I use the `python3` and `python2` packages from chocolatey.
 
+I customize these installs by passing `-ia "ADDLOCAL=Tools"` for Python 2 and
+`-ia "CompileAll=1 Include_debug=1 Include_symbols=1"`
+for Python 3.
+
+#### TODO
+
+- Firefox

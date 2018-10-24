@@ -37,6 +37,7 @@ nsis-unicode
 nvidia-display-driver
 obs-studio
 OpenSSL.Light
+rclone
 ripgrep
 sharex
 spotify
