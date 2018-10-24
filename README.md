@@ -49,3 +49,5 @@ I customize these installs by passing `-ia "ADDLOCAL=Tools"` for Python 2 and
 #### TODO
 
 - Firefox
+- SSH
+- GPG
