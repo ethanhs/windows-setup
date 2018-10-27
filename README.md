@@ -46,6 +46,10 @@ I need both Python 3 and Python 2. To acheive this, I use the `python3` and
 I customize these installs by passing `-ia "ADDLOCAL=Tools"` for Python 2 and
 `-ia "CompileAll=1 Include_debug=1 Include_symbols=1"` for Python 3.
 
+The Python 3.X flags are documented here: https://docs.python.org/3/using/windows.html#installing-without-ui
+while the Python 2.7 flags are somewhat documented here: https://www.python.org/download/releases/2.4/msi/
+(I sadly couldn't find a better source for the 2.x installer sadly)
+
 #### TODO
 
 - Firefox
