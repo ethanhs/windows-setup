@@ -37,6 +37,8 @@ nsis-unicode
 nvidia-display-driver
 obs-studio
 OpenSSL.Light
+pia
+putty
 rclone
 ripgrep
 sharex
