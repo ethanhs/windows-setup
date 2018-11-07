@@ -7,8 +7,7 @@ affiliated with, nor paid by any of the below. Several of these tools and
 methods I dive deeper into as they give a more unix like feel and are great for
 developers.
 
-Make sure to read the `install.ps1`! I haven't used it yet (I wrote it for next
-time) but hopefully it works well for others.
+Make sure to read the `install.ps1`!
 
 ### Chocolatey
 
