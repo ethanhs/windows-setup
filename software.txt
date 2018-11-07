@@ -7,6 +7,7 @@ crystaldiskmark
 dejavufonts
 deluge
 discord
+docker-for-windows
 DotNet4.5
 DotNet4.5.2
 dotnet4.6.2
@@ -17,12 +18,11 @@ fd
 ffmpeg
 fzf
 gimp
-git
 gpg4win
 hexchat
 hub
 InkScape
-jdk10
+jdk11
 jq
 KB2919355
 KB2919442
@@ -49,6 +49,7 @@ vcredist2008
 vcredist2015
 vlc
 vscode
+vscode-docker
 windirstat
 wireshark
 wsltty

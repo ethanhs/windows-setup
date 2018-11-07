@@ -52,6 +52,5 @@ while the Python 2.7 flags are somewhat documented here: https://www.python.org/
 
 #### TODO
 
-- Firefox
 - SSH
 - GPG
