@@ -55,6 +55,9 @@ choco install visualstudio2017-workload-netcoretools --package-paramters "--incl
 choco install visualstudio2017-workload-manageddesktop --package-paramters "--includeOptional"
 refreshenv
 
+# install the best search program ever
+choco install everything /client-service /efu-association /folder-context-menu
+
 # Install Zerotier if it isn't already
 $ztpath = Join-Path -Path $PSScriptRoot -ChildPath ZeroTierOne.msi.exe
 if(![System.IO.File]::Exists($ztpath)){

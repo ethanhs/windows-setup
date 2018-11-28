@@ -2,6 +2,7 @@
 ag
 blender
 cmake
+cpu-z
 crystaldiskinfo
 crystaldiskmark
 dejavufonts
@@ -10,6 +11,8 @@ discord
 docker-for-windows
 DotNet4.5
 DotNet4.5.2
+DotNet4.6
+DotNet4.6.1
 dotnet4.6.2
 duplicati
 etcher
@@ -35,8 +38,11 @@ neovim
 ninja
 nsis-unicode
 nvidia-display-driver
+nvm
 obs-studio
+openhardwaremonitor
 OpenSSL.Light
+openvpn
 pia
 putty
 rclone
@@ -48,7 +54,9 @@ strawberryperl
 sysinternals
 vcredist140
 vcredist2008
+vcredist2013
 vcredist2015
+vcredist2017
 vlc
 vscode
 vscode-docker
