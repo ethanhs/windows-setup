@@ -34,6 +34,7 @@ KB3033929
 KB3035131
 keepassxc
 llvm
+lockhunter
 neovim
 ninja
 nsis-unicode
