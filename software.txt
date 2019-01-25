@@ -1,5 +1,6 @@
 7zip
 ag
+androidstudio
 blender
 cmake
 cpu-z
@@ -8,10 +9,13 @@ crystaldiskmark
 dejavufonts
 deluge
 discord
+docker-desktop
 docker-for-windows
+dokany
 DotNet4.5
 DotNet4.5.2
 DotNet4.6
+DotNet4.6-TargetPack
 DotNet4.6.1
 dotnet4.6.2
 duplicati
@@ -20,6 +24,7 @@ ext2fsd
 fd
 ffmpeg
 fzf
+geforce-game-ready-driver
 gimp
 gpg4win
 hexchat
@@ -27,6 +32,7 @@ hub
 InkScape
 jdk11
 jq
+KB2882822
 KB2919355
 KB2919442
 KB2999226
@@ -36,6 +42,9 @@ keepassxc
 llvm
 lockhunter
 neovim
+netfx-4.5.1-devpack
+netfx-4.5.2-devpack
+netfx-4.6.1-devpack
 ninja
 nsis-unicode
 nvidia-display-driver
@@ -44,14 +53,15 @@ obs-studio
 openhardwaremonitor
 OpenSSL.Light
 openvpn
-pia
 putty
 rclone
 ripgrep
 sharex
+sidesync
 spotify
 steam
 strawberryperl
+synctrayzor
 sysinternals
 vcredist140
 vcredist2008
