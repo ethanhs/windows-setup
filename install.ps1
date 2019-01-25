@@ -18,10 +18,10 @@ git pull origin master
 # we can leave the clink script directory
 cd $PSScriptRoot
 # replace the git-prompt.lua file with our own.
-$promptpath = Join-Path -Path $PSScriptRoot -ChildPath git-prompt.lua
+$promptpath = Join-Path -Path $PSScriptRoot -ChildPath git_prompt.lua
 if([System.IO.File]::Exists($promptpath)){
     # if it doesn't exist, we have already moved it (the script may have been run already)
-    move $PSScriptRoot/git-prompt.lua $Env:LOCALAPPDATA/clink/git-prompt.lua
+    move $PSScriptRoot/git_prompt.lua $Env:LOCALAPPDATA/clink/git_prompt.lua
 }
 
 # Install everything search, the best search tool that exists for Windows
