@@ -7,6 +7,8 @@ choco feature enable -n allowGlobalConfirmation
 # start with clink so we can handle some post install things
 # also git, which is needed for clink-completions
 choco install clink
+# silence the prompt
+REG import clink.reg
 choco install -y git --package-parameters="'/GitAndUnixToolsOnPath /WindowsTerminal'"
 refreshenv
 # change to the clink script directory
