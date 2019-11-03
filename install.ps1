@@ -48,13 +48,13 @@ refreshenv
 choco install openssh -params '"/SSHServerFeature"'
 refreshenv
 
-# Now install VS 2017
-choco install visualstudio2017community
+# Now install VS 2019
+choco install visualstudio2019community
 
 # and the customized workloads I would like to use
-choco install visualstudio2017-workload-visualstudioextension visualstudio2017-workload-nativedesktop visualstudio2017-workload-nativecrossplat visualstudio2017-workload-data
-choco install visualstudio2017-workload-netcoretools --package-paramters "--includeOptional"
-choco install visualstudio2017-workload-manageddesktop --package-paramters "--includeOptional"
+choco install visualstudio2019-workload-visualstudioextension visualstudio2019-workload-nativedesktop visualstudio2019-workload-nativecrossplat visualstudio2019-workload-data
+choco install visualstudio2019-workload-netcoretools --package-paramters "--includeOptional"
+choco install visualstudio2019-workload-manageddesktop --package-paramters "--includeOptional"
 refreshenv
 
 # install the best search program ever
